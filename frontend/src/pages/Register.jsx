@@ -51,7 +51,7 @@ const Register = () => {
           </h2>
           <p className="mt-2 text-center text-sm text-gray-600">
             Or{' '}
-            <a href="/login" className="font-medium text-blue-600 hover:text-blue-500">
+            <a href="/" className="font-medium text-blue-600 hover:text-blue-500">
               sign in to your account
             </a>
           </p>
